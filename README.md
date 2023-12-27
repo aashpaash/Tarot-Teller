@@ -1,5 +1,7 @@
 # Tarot-Teller
 
+Deployed link: https://aashpaash.github.io/Tarot-Teller/
+
 ## What is Tarot Teller?
 Tarot Teller is your daily tarot card reading. 
 
